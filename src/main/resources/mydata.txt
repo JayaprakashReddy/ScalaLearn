@@ -1,0 +1,6 @@
+Hello this is test file to check the length of the line.
+hi
+ok
+done
+this is another line with a little bigger length. check now local function.
+Now I have removed the redundant function parameters in the local function.
