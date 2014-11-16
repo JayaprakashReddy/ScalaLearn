@@ -10,6 +10,6 @@ object ZipTest extends App {
   val a4String =a4 mkString "\n"
   println(a4String)
   
-  println("Tested Again")
+  println("Tested Again Buddy!")
   
 }
